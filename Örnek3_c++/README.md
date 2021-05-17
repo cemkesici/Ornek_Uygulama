@@ -1,0 +1,1 @@
+Girilen bir cünlenin polimdronik olup olmamasını inceleyen C++ kodu
